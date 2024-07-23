@@ -40,4 +40,4 @@ $$
 * PyWhy contributors. "Estimating the Effect of a Member Rewards Program." DoWhy Documentation. Accessed July 23, 2024. https://www.pywhy.org/dowhy/main/example_notebooks/dowhy_example_effect_of_memberrewards_program.html.
 * Amit Sharma, Emre Kiciman. DoWhy: An End-to-End Library for Causal Inference. 2020. https://arxiv.org/abs/2011.04216
 * Patrick Blöbaum, Peter Götz, Kailash Budhathoki, Atalanti A. Mastakouri, Dominik Janzing. DoWhy-GCM: An extension of DoWhy for causal inference in graphical causal models. 2022. https://arxiv.org/abs/2206.06821
-* 
+* CausalWizard. (n.d.). CausalWizard app. Retrieved November 1, 2023, from https://causalwizard.app
