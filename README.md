@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-**Background:** Our online store offers a subscription-based loyalty program, *Plus*. Customers can keep on using the platform without one. Yet, subscriptions ensure a recurrent revenue stream and may increase customer lifetime value (CLV). Using a regression analysis, Analytics team has already found that Plus members, on average, has higher customer lifetime value. However, this is simply an association and may stem from a spurious correlation. **Does being a plus member ACTUALLY increase customer lifetime value?**
+**Background:** Our online store offers a subscription-based loyalty program, *Plus*. Customers can keep on using the platform without one. Yet, subscriptions ensure a recurrent revenue stream and may increase customer lifetime value (CLV). Using a regression analysis, Analytics team has already found that Plus members, on average, has higher customer lifetime value. However, this is simply an association and may stem from a spurious correlation. Product and marketing teams are considering channeling more resources into Plus membership, but **does being a plus member ACTUALLY increase customer lifetime value?**
 
 **Objectives:** Find out if becoming a Plus member **causes** an increase in customer lifetime value. Assess if we should promote becoming a Plus member, as this may increase the spending.
 
