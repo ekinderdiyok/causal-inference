@@ -19,9 +19,9 @@ H_1 &: \text{Being a Plus member increases customer lifetime value.}
 \end{align*}
 $$
 
-**Result:** We reject the alternative hypothesis $(H_1)$ that becoming a Plus member increases CLV. A third variable explains the association between being a Plus member and spending more.
+**Result:** We reject the null hypothesis $(H_0)$ that becoming a Plus member does not increase CLV. Being a Plus member increase spending.
 
-**Recommendations**: Plus membership should not be promoted for the sake of increasing CLV. Plus membership may still translate into higher customer satisfaction and brand loyalty. This is a question for another day.
+**Recommendations**: Plus membership should be promoted for the sake of increasing CLV.
 
 ## Author and Contact
 **Author:** Ekin Derdiyok <br>
@@ -30,10 +30,18 @@ $$
 **Date:** July 23, 2024 (Start) <br>
 
 ## Folder Structure
-
-## Code
-
-### code_file.ipynb
+```
+└── 📁causal-inference
+    └── README.md
+    └── 📁canvas
+        └── business_model_canvas.md
+    └── 📁code
+        └── causal_inference.ipynb
+    └── 📁diagram
+        └── causal_diagram.ipynb
+        └── causal_diagram.png
+        └── causal_diagram.svg
+```
 
 ## References
 * Hünermund, Paul and Kaminski, Jermain and Schmitt, Carla, Causal Machine Learning and Business Decision Making (February 19, 2022). Available at SSRN: https://ssrn.com/abstract=3867326 or http://dx.doi.org/10.2139/ssrn.3867326
